@@ -1,4 +1,4 @@
-# docker搭建Nacos
+# docker 搭建 Nacos
 
 ## 拉取镜像
 
@@ -14,9 +14,9 @@ docker run --name nacos-quick -e MODE=standalone -p 8848:8848 -d nacos/nacos-ser
 
 更多用法：
 
-* https://github.com/nacos-group/nacos-docker
+- https://github.com/nacos-group/nacos-docker
 
-* https://nacos.io/zh-cn/docs/quick-start.html
+- https://nacos.io/zh-cn/docs/quick-start.html
 
 ## 访问
 
