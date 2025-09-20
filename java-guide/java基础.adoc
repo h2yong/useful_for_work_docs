@@ -1,0 +1,110 @@
+= Java基础
+:stem: latexmath
+:icons: font
+:source-highlighter: highlight.js
+:sectnums:
+:sectlinks:
+:sectnumlevels: 4
+:toc: left
+:toc-title: 目录
+:toclevels: 3
+
+== JVM
+Java 虚拟机（Java Virtual Machine, JVM）是运行 Java 字节码的虚拟机。JVM 有针对不同系统的特定实现（Windows，Linux，macOS），目的是使用相同的字节码，它们都会给出相同的结果。字节码和不同系统的 JVM 实现是 Java 语言“一次编译，随处可以运行”的关键所在。
+
+== 什么是字节码?采用字节码的好处是什么?
+JVM 可以理解的代码就叫做字节码（即扩展名为 .class 的文件），它不面向任何特定的处理器，只面向虚拟机。 +
+Java 程序从源代码到运行的过程如下图所示：
+[mermaid]
+----
+graph LR
+    A[.java] --> B(javac编译) --> C(.class) --> D(解释器&JIT) --> E(机器可理解的代码) --> F((机器))
+----
+
+== continue、break 和 return 的区别是什么？
+. continue：指跳出当前的这一次循环，继续下一次循环。
+. break：指跳出整个循环体，继续执行循环下面的语句。
+. return 用于跳出所在方法，结束该方法的运行。return 一般有两种用法：
+.. ```return;```：直接使用 return 结束方法执行，用于没有返回值函数的方法
+.. ```return value;```：return 一个特定值，用于有返回值函数的方法
+
+思考一下：下列语句的运行结果是什么？
+[source,java]
+----
+public static void main(String[] args) {
+    boolean flag = false;
+    for (int i = 0; i <= 3; i++) {
+        if (i == 0) {
+            System.out.println("0");
+        } else if (i == 1) {
+            System.out.println("1");
+            continue;
+        } else if (i == 2) {
+            System.out.println("2");
+            flag = true;
+        } else if (i == 3) {
+            System.out.println("3");
+            break;
+        } else if (i == 4) {
+            System.out.println("4");
+        }
+        System.out.println("xixi");
+    }
+    if (flag) {
+        System.out.println("haha");
+        return;
+    }
+    System.out.println("heihei");
+}
+----
+运行结果：
+[source,sh]
+----
+0
+xixi
+1
+2
+xixi
+3
+haha
+----
+
+== 重载和重写有什么区别？
+重载就是同样的一个方法能够根据输入数据的不同，做出不同的处理。 +
+重写就是当子类继承自父类的相同方法，输入数据一样，但要做出有别于父类的响应时，你就要覆盖父类方法
+
+=== 重载
+发生在同一个类中（或者父类和子类之间），方法名必须相同，参数类型不同、个数不同、顺序不同，方法返回值和访问修饰符可以不同。
+
+=== 重写
+重写发生在运行期，是子类对父类的允许访问的方法的实现过程进行重新编写。
+
+. 方法名、参数列表必须相同，子类方法返回值类型应比父类方法返回值类型更小或相等，抛出的异常范围小于等于父类，访问修饰符范围大于等于父类。
+. 如果父类方法访问修饰符为 private/final/static 则子类就不能重写该方法，但是被 static 修饰的方法能够被再次声明。
+. 构造方法无法被重写。
+
+=== 总结
+综上：重写就是子类对父类方法的重新改造，外部样子不能改变，内部逻辑可以改变。
+
+|===
+|区别点 | 重载 (Overloading) | 重写 (Overriding)
+|发生范围
+|同一个类中。
+|父类与子类之间（存在继承关系）。
+
+|方法签名
+|方法名必须相同，但参数列表必须不同（参数的类型、个数或顺序至少有一项不同）。
+|方法名、参数列表必须完全相同。
+
+|返回类型
+|与返回值类型无关，可以任意修改。
+|子类方法的返回类型必须与父类方法的返回类型相同，或者是其子类。
+
+|访问修饰符
+|与访问修饰符无关，可以任意修改。
+|子类方法的访问权限不能低于父类方法的访问权限。（public > protected > default > private）
+
+|绑定时期
+|编译时绑定或称静态绑定。
+|运行时绑定 (Run-time Binding) 或称动态绑定。
+|===

@@ -1,0 +1,23 @@
+= c++基础
+:stem: latexmath
+:icons: font
+:source-highlighter: highlight.js
+:sectnums:
+:sectlinks:
+:sectnumlevels: 4
+:toc: left
+:toc-title: 目录
+:toclevels: 3
+
+== 指针
+=== 什么是指针？
+指针是一个变量，其值为另一个变量的地址，即，内存位置的直接地址。 +
+必须在使用指针存储其他变量地址之前，对其进行声明。指针变量声明的一般形式为： +
+[source,cpp]
+----
+type *var-name;
+----
+
+
+
+== 引用

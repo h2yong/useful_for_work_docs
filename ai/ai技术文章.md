@@ -1,0 +1,7 @@
+- [吊打中文合成！这款开源语音神器效果炸裂，逼真到离谱！](https://developer.aliyun.com/article/1656522)
+- [2.8k star! 用开源免费的 edge-tts 平替科大讯飞的语音合成服务](https://zhuanlan.zhihu.com/p/685186002)
+- [https://github.com/topics/faq](https://github.com/topics/faq)
+- [好棒的知识图谱：开源综述系列集合](https://zhuanlan.zhihu.com/p/426324652?utm_id=0)
+- [阿里云小蜜对话机器人背后的核心算法](https://zhuanlan.zhihu.com/p/83487924?utm_id=0)
+- [通用信息抽取 UIE(Universal Information Extraction)](https://blog.csdn.net/m0_54929869/article/details/126626310)
+- [随机手机号和身份证号码(python)](https://www.cnblogs.com/LOVEYU/p/8462938.html)
