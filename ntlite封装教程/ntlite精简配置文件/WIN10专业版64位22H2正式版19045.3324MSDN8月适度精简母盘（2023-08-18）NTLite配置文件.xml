@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset isAutoSaved="true" xmlns="urn:schemas-nliteos-com:pn.v1">
+    <Date>08/18/2023 18:36:47</Date>
+    <AppInfo>
+        <Version>2023.7.9371</Version>
+        <Licensed>Yes</Licensed>
+        <Protections>Yes</Protections>
+        <Host>Windows 10 Enterprise LTSC 2019 (1809) x64 - 10.0.17763.615 (zh-CN)</Host>
+    </AppInfo>
+    <ImageInfo>
+        <Version mode="offline">Windows 10 Professional (22H2) x64 - 10.0.19045.3324 (zh-CN)</Version>
+        <GUID>{B657155E-044A-49D2-BC1E-6E4E00838721}</GUID>
+    </ImageInfo>
+    <RemoveComponents AppRemovalMode="DISM">
+        <c>appv '应用程序虚拟化(App-V)'</c>
+        <c>assembly.net '.NET assembly 缓存'</c>
+        <c>backup '备份与恢复'</c>
+        <c>ceip 'Windows客户体验改善计划 CEIP (SQM)'</c>
+        <c>clouddownload 'Windows Recovery(WinRE) - 云下载'</c>
+        <c>cloudnotifications 'Cloud Notifications(云通知)'</c>
+        <c>edgeupdate 'Microsoft Edge Update'</c>
+        <c>enterpriseclientsync '工作文件夹客户端(Work Folders Client)'</c>
+        <c>enterprisedataprotection '企业数据保护 (EDP/WIP)'</c>
+        <c>font_holomd2 'Holo MDL2 Assets'</c>
+        <c>lcu '累积更新缓存 (LCU)'</c>
+        <c>manifestbackup 'Manifest 备份 (WinSxS\Backup)'</c>
+        <c>mapcontrol '地图控制'</c>
+        <c>microsoft.549981c3f5f10 'Cortana'</c>
+        <c>microsoft.bingweather 'MSN 天气'</c>
+        <c>microsoft.ecapp '目视控制'</c>
+        <c>microsoft.gethelp 'Get Help'</c>
+        <c>microsoft.getstarted '提示(Win10 1607之前叫“入门”)'</c>
+        <c>microsoft.microsoft3dviewer '3D 查看器'</c>
+        <c>microsoft.microsoftedge.stable 'Microsoft Edge (Chromium)'</c>
+        <c>microsoft.microsoftedge 'Microsoft Edge (Legacy)'</c>
+        <c>microsoft.microsoftedgedevtoolsclient 'Microsoft Edge DevTools 客户端'</c>
+        <c>microsoft.microsoftofficehub 'Office'</c>
+        <c>microsoft.microsoftstickynotes 'Microsoft Sticky Notes'</c>
+        <c>microsoft.mixedreality.portal 'Mixed Reality Portal'</c>
+        <c>microsoft.mspaint '图画 3D'</c>
+        <c>microsoft.office.onenote 'OneNote'</c>
+        <c>microsoft.people 'Microsoft People'</c>
+        <c>microsoft.screensketch 'Snip &amp; Sketch'</c>
+        <c>microsoft.skypeapp 'Skype'</c>
+        <c>microsoft.wallet 'Microsoft Pay'</c>
+        <c>microsoft.windows.apprep.chxapp 'SmartScreen'</c>
+        <c>microsoft.windows.contentdeliverymanager '内容传递管理器'</c>
+        <c>microsoft.windows.oobenetworkcaptiveportal '强制网络门户流'</c>
+        <c>microsoft.windows.oobenetworkconnectionflow '网络连接流'</c>
+        <c>microsoft.windows.peopleexperiencehost 'Windows Shell Experience'</c>
+        <c>microsoft.windows.sechealthui 'Windows Defender'</c>
+        <c>microsoft.windowsalarms 'Windows Alarms &amp; Clock'</c>
+        <c>microsoft.windowscommunicationsapps 'Mail and Calendar'</c>
+        <c>microsoft.windowsfeedbackhub 'Feedback Hub'</c>
+        <c>microsoft.windowsmaps 'Windows Maps'</c>
+        <c>microsoft.yourphone 'Your Phone'</c>
+        <c>migwiz '轻松传送'</c>
+        <c>mixedreality 'Windows Mixed Reality(混合现实)'</c>
+        <c>onedrive 'OneDrive(微软云盘)'</c>
+        <c>pdfreader 'Windows Reader (PDF)'</c>
+        <c>pushnotificationssvc 'Windows 推送通知服务 (系统)'</c>
+        <c>retaildemo '零售演示内容'</c>
+        <c>securitycenter '安全中心'</c>
+        <c>skypeortc 'Skype ORTC'</c>
+        <c>systemreset 'Recovery Reset 支持'</c>
+        <c>systemrestore '系统恢复'</c>
+        <c>targetedcontent32 'Targeted Content service(定向内容服务) - 32-位'</c>
+        <c>tempcache '缓存与临时文件'</c>
+        <c>uev '用户体验虚拟化(UE-V)'</c>
+        <c>waasassessment 'Windows Update Medic 服务'</c>
+        <c>warpjitsvc 'DirectX WARP JIT 服务'</c>
+        <c>windowstogo 'Windows To Go'</c>
+        <c>winre 'Windows Recovery(WinRE)'</c>
+        <c>winsat 'Windows 系统评估工具 (WinSAT)'</c>
+    </RemoveComponents>
+    <Compatibility protectHidden="true">
+        <ComponentFeatures>
+            <Feature enabled="no">OOBE</Feature>
+            <Feature enabled="no">AppGuard</Feature>
+            <Feature enabled="no">CapFrameX</Feature>
+            <Feature enabled="no">Discord</Feature>
+            <Feature enabled="no">Hyper-V</Feature>
+            <Feature enabled="no">iCloud</Feature>
+            <Feature enabled="no">OfficeSupport</Feature>
+            <Feature enabled="no">AppxSupport</Feature>
+            <Feature enabled="no">Netflix</Feature>
+            <Feature enabled="no">NvidiaSetup</Feature>
+            <Feature enabled="no">SafeMode</Feature>
+            <Feature enabled="no">SamsungSwitch</Feature>
+            <Feature enabled="no">ShellSearchSupport</Feature>
+            <Feature enabled="no">Spotify</Feature>
+            <Feature enabled="no">TeamViewer</Feature>
+            <Feature enabled="no">USBModem</Feature>
+            <Feature enabled="no">USB</Feature>
+            <Feature enabled="no">VisualStudio</Feature>
+            <Feature enabled="no">VPN</Feature>
+            <Feature enabled="no">WindowsStore</Feature>
+            <Feature enabled="no">WindowsUpdate</Feature>
+            <Feature enabled="no">ActivationKMS</Feature>
+            <Feature enabled="no">Activation</Feature>
+            <Feature enabled="no">YubiKey</Feature>
+            <Feature enabled="no">WLAN</Feature>
+            <Feature enabled="no">VSS</Feature>
+            <Feature enabled="no">NightLight</Feature>
+            <Feature enabled="no">ManualSetup</Feature>
+            <Feature enabled="no">Printing</Feature>
+            <Feature enabled="no">Scanning</Feature>
+            <Feature enabled="no">Recommended-All</Feature>
+            <Feature enabled="no">FileSharing</Feature>
+            <Feature enabled="no">ServicingStack</Feature>
+            <Feature enabled="no">USBCamera</Feature>
+            <Feature enabled="no">DefaultFonts</Feature>
+            <Feature enabled="no">SFC</Feature>
+            <Feature enabled="no">NetworkDiscovery</Feature>
+            <Feature enabled="no">Bluetooth</Feature>
+            <Feature enabled="no">VideoPlayback</Feature>
+            <Feature enabled="no">Recommended-Tablet</Feature>
+        </ComponentFeatures>
+        <MachineDrivers>
+            <Machine enabled="no">Hyper-V VM</Machine>
+            <Machine enabled="no">Parallels VM</Machine>
+            <Machine enabled="no">Virtual Box VM</Machine>
+            <Machine enabled="no">VMware VM</Machine>
+            <Machine enabled="no">HostMachine</Machine>
+        </MachineDrivers>
+    </Compatibility>
+    <Features>
+        <Feature name="SMB1Protocol-Deprecation">true</Feature>
+        <Feature name="SMB1Protocol-Client">true</Feature>
+        <Feature name="SMB1Protocol">true</Feature>
+        <Feature name="SMB1Protocol-Server">true</Feature>
+    </Features>
+    <Packages>
+        <File>H:\sources\sxs\microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.cab</File>
+    </Packages>
+    <Commands>
+        <PostUpdates>
+            <!--<Command>cmd /c echo Example from [MOUNTDIR]\Windows &amp; pause</Command>-->
+            <!--<Command>dism /image:[MOUNTDIR] /get-intl</Command>-->
+        </PostUpdates>
+    </Commands>
+    <Drivers showHidden="true"/>
+    <Unattended mode="0">
+        <OEMSetupComplete>false</OEMSetupComplete>
+        <AnswerFileLocationPanther>true</AnswerFileLocationPanther>
+        <AnswerFileLocationBoot>false</AnswerFileLocationBoot>
+        <SaveBothArch>false</SaveBothArch>
+        <EditionPrompt>false</EditionPrompt>
+        <settings pass="windowsPE">
+            <component name="Microsoft-Windows-Setup">
+                <DynamicUpdate>
+                    <WillShowUI>OnError</WillShowUI>
+                </DynamicUpdate>
+                <ImageInstall>
+                    <OSImage>
+                        <WillShowUI>OnError</WillShowUI>
+                        <InstallFrom>
+                            <MetaData>
+                                <Key>/IMAGE/INDEX</Key>
+                                <Value>3</Value>
+                            </MetaData>
+                        </InstallFrom>
+                    </OSImage>
+                </ImageInstall>
+                <UserData>
+                    <ProductKey>
+                        <Key/>
+                        <WillShowUI>OnError</WillShowUI>
+                    </ProductKey>
+                </UserData>
+            </component>
+        </settings>
+    </Unattended>
+    <Tweaks>
+        <Settings>
+            <TweakGroup name="System">
+                <Tweak name="ReserveManager\ShippedWithReserves">0</Tweak>
+            </TweakGroup>
+        </Settings>
+        <Services/>
+        <ExtraServices/>
+        <ScheduledTasks/>
+    </Tweaks>
+    <ApplyOptions>
+        <ImageTasks>
+            <Task>imageSaveTrim</Task>
+            <Task>imageFormatWim</Task>
+        </ImageTasks>
+        <AutoIsoFile>NTLite.iso</AutoIsoFile>
+        <AutoIsoLabel>NTLite</AutoIsoLabel>
+        <AutoSplitSize>4000</AutoSplitSize>
+        <CleanHotfixedLeftovers>3</CleanHotfixedLeftovers>
+        <OptimizeAppX>false</OptimizeAppX>
+        <ReuseDriverCache>false</ReuseDriverCache>
+    </ApplyOptions>
+    <Execution>
+        <Remove/>
+        <Change/>
+        <Add/>
+    </Execution>
+    <Registry>
+        <File>I:\配置备份\修复打印机共享11b问题.reg</File>
+    </Registry>
+</Preset>
