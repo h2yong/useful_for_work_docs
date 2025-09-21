@@ -36,38 +36,6 @@
 - [Apache Shiro](http://shiro.apache.org/)：执行认证、授权、加密和会话管理。
 - [Spring Security](http://projects.spring.io/spring-security/)：专注认证、授权和多维度攻击防护框架。
 
-## 测试
-
-- [assertj](https://assertj.github.io/doc/)：支持流式断言提高测试的可读性
-- [truth](https://github.com/google/truth)：来自 Google 用于 Java 单元测试断言/命题框架
-- [assertj-db](http://joel-costigliola.github.io/assertj/assertj-db.html)：数据库流式断言
-- [junit](http://junit.org/junit4/)：单元测试框架
-- [testng](http://testng.org/doc/index.html)：单元测试框架
-- [mockito](http://code.google.com/p/mockito/)：在自动化单元测试中创建测试对象，为 TDD 或 BDD 提供支持
-- [powermock](https://github.com/powermock/powermock)：PowerMock 扩展了 EasyMock 和 Mockito 框架，增加了对 static 和 final 方法 mock 支持等功能
-- [rest-assured](http://rest-assured.io/)：rest 服务测试框架
-- [fitnesse](http://www.fitnesse.org/FitNesseFeatures)：使用 wiki 的测试框架
-- [cucumber](https://cucumber.io)：行为驱动开发测试框架
-- [dbunit](http://dbunit.sourceforge.net/)：junit 插件，用于数据库单元测试
-- [spring-test-dbunit](https://github.com/springtestdbunit/spring-test-dbunit)
-- [JTester](https://code.google.com/archive/p/java-tester/)：JTester 是站在众多巨人肩膀上的单元测试框架，集成了 Junit4.5，dbunit2.4.3，unitils2.2，JMOCK2.5 和 TestNg5.1 这些优秀的开源框架
-- [spock](http://spockframework.org)：Spock 框架是基于 Groovy 语言的测试框架，Groovy 与 Java 具备良好的互操作性，因此可以在 Spring Boot 项目中使用该框架写优雅、高效以及 DSL 化的测试用例
-- [nosql-unit](https://github.com/lordofthejars/nosql-unit)：NoSQL Unit is a JUnit extension that helps you write NoSQL unit tests
-- [test4j](https://github.com/test4j/test4j): an open source for java test
-
-## web 自动化测试
-
-- [Selenium](http://docs.seleniumhq.org/)：为 Web 应用程序提供可移植软件测试框架
-- [htmlunit](http://htmlunit.sourceforge.net/)：HtmlUnit 是 JUnit 的扩展测试框架之一，用于 html 单元测试
-- [httpunit](http://httpunit.sourceforge.net/)：HttpUnit 对网络应用程序进行自动完善和测试的 JAVA 类库程序
-- [karate](https://github.com/intuit/karate)：Web-Services Testing Made Simple
-
-## 性能测试
-
-- http://naver.github.io/ngrinder/
-- http://gettaurus.org/
-- http://locust.io
-
 ## Web 框架
 
 - [Springmvc](http://projects.spring.io/spring-framework/)：Spring MVC 属于 SpringFrameWork 的后续产品。
@@ -132,11 +100,6 @@
 
 - [Hazelcast](https://hazelcast.org/)：Highly scalable in-memory datagrid with a free open-source version.
 
-## mock-server 框架
-
-- http://www.mock-server.com/
-- https://github.com/dreamhead/moco
-
 ## 微服务脚手架
 
 - [jhipster](http://www.jhipster.tech/)，中文指南：https://www.jhipster-cn.tech，开发笔记：https://jh.jiankangsn.com/
@@ -195,13 +158,13 @@ https://www.graalvm.org/
 - [Spring Boot 集成 MyBatis 的基础项目](https://github.com/abel533/MyBatis-Spring-Boot)
 - [Spring Boot 参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 - [Java 通过 URLClassLoader 让程序支持插件扩展](http://xxgblog.com/2013/07/04/java-urlclassloader-plugin/)
-
-## 单元测试文章
-
-- https://skyao.gitbooks.io/learning-java-unit-test/content/assertj/
-- https://skyao.gitbooks.io/learning-java-unit-test/content/powermock/
-- https://skyao.gitbooks.io/learning-java-unit-test/content/mockito/
-- https://github.com/kkapelon/java-testing-with-spock
+- [Spring Cloud Greenwich.RELEASE Reference](https://www.docs4dev.com/docs/zh/spring-cloud/Greenwich.RELEASE/reference/)
+- [统一异常处理介绍及实战](https://www.jianshu.com/p/3f3d9e8d1efa)
+- [netty demo](https://github.com/UVliuwei/netty)
+- [Java Websocket 获取客户端 IP 地址](https://www.zhangbj.com/p/797.html)
+- [springboot2.0 集成 webSocket](https://www.jianshu.com/p/2c9be4641d43)
+- [SpringCloud gateway(疯狂创客圈)](https://www.cnblogs.com/crazymakercircle/p/11704077.html)
+- [Spring Cloud Netflix 项目进入维护模式，相关替换品](https://www.cnblogs.com/doit8791/p/10206867.html)
 
 ## 优秀 java 相关资料
 
@@ -233,14 +196,6 @@ https://www.graalvm.org/
 - [MioSoft](https://www.miosoft.com/)
 - [Engine Yard Cloud](http://www.engineyard.com/)
 
-## 接口测试文章收集
-
-- https://www.kancloud.cn/digest/dqappinterface/120089
-- [有赞分层自动化测试实践](http://tech.youzan.com/layers_test_automation_practice/)
-- [接口测试-分层测试重构之接口层](https://testerhome.com/topics/4284)
-- [PhoenixFramework 自动化测试平台](http://www.cewan.la/)
-- [自动化测试工具 Fitnesse+RestFixture](https://testerhome.com/topics/1277)
-
 ## 移动跨平台开发
 
 - https://github.com/NervJS/taro
@@ -256,18 +211,9 @@ https://electronjs.org/
 - [猴子都能懂的 GIT 入门](https://backlog.com/git-tutorial/cn/)
 - [IntelliJ IDEA 使用教程](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)
 
-## devops 平台
-
-- [jenkins](https://jenkins.io/zh/)
-- [TFS](https://visualstudio.microsoft.com/zh-hans/tfs/)
-
 ## 服务编排
 
 - https://github.com/Netflix/conductor
-
-## 基础设施即代码
-
-- https://www.terraform.io/docs/cli-index.html
 
 ## springboot 集成 vuejs
 
@@ -281,10 +227,6 @@ https://electronjs.org/
 - https://gitee.com/log4j/pig
 - [fileex 一款基于 netty、http1.1 transfer-encoding:chunked、websocket 实现的大文件分块上传断点续传处理器](https://gitee.com/gaojunjie03/fileex)
 
-## 测试开源平台
-
-- [MeterSphere 一站式开源持续测试平台](https://github.com/metersphere/metersphere)
-
 ## 单点登录
 
 - [cas](https://github.com/apereo/cas)
@@ -293,4 +235,30 @@ https://electronjs.org/
 ## 文件文档在线预览
 
 - [kkFileView](https://kkview.cn/zh-cn/index.html)
-    > [Spring Boot 整合 MinIO 实现文件存储的完整方案](https://mp.weixin.qq.com/s/T0ZmZH8pFcYMVTqntbYzyA)
+  > [Spring Boot 整合 MinIO 实现文件存储的完整方案](https://mp.weixin.qq.com/s/T0ZmZH8pFcYMVTqntbYzyA)
+
+## spring cloud 快速部署
+
+- [Nacos Docker 快速开始](https://nacos.io/docs/next/quickstart/quick-start-docker/)
+- [Sentinel Dashboard 快速开始](https://sentinelguard.io/zh-cn/docs/dashboard.html)
+
+- [Zipkin Sever 快速开始](https://zipkin.io/pages/quickstart.html)
+  - [docker 启动](https://github.com/openzipkin-attic/docker-zipkin/blob/master/docker-compose.yml)
+  - [jar 包启动](https://zipkin.io/pages/quickstart.html)
+  - [源码启动](https://zipkin.io/pages/quickstart.html)
+
+## cas 单点登录
+
+https://www.jianshu.com/p/5a8e3417a8f6
+https://segmentfault.com/a/1190000022990791
+https://www.jianshu.com/p/165c54fc91bc
+https://github.com/Mshu95/sso-cas
+
+### https 证书
+
+- 生成密钥
+  `keytool -genkey -alias cas -keyalg RSA -keystore cas.keystore`
+- 生成证书
+  `keytool -export -alias cas -storepass 123456 -file cas.cer -keystore cas.keystore`
+- 导入证书
+  `keytool -import -alias cas -keystore /etc/ssl/certs/java/cacerts -file cas.cer -trustcacerts`

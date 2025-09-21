@@ -118,14 +118,8 @@
 - [性能百万/s：腾讯轻量级全局流控方案详解](https://cloud.tencent.com/developer/article/1359415)
 - [Sentinel 是怎样拦截异常流量的](https://my.oschina.net/u/4585957/blog/4619544)
 
-## AI 技术篇
-
-- [挖掘海量数据精华价值：Milvus 助力企业打造前沿 AI 搜索](https://m.toutiao.com/is/JPWq9PV/)
-- [【深度知识】25 种区块链共识算法全面详解](https://www.jianshu.com/p/328cd989a4c8)
-
 ## 工具篇
 
-- [Intellij IDEA 实用插件推荐](https://juejin.im/post/6844904082721734663)
 - [提升开发效率 N 倍的 20+命令行神器，赶紧收藏了](https://developer.51cto.com/art/202009/626015.htm)
 - [制品仓](https://jfrog.com/)
 - [这 9 个 Java 开源项目 yyds](https://mp.weixin.qq.com/s/Ygv3EN788RV-V_NXlxffgg)
@@ -146,6 +140,73 @@
 - [Spring Boot 实现延时任务的 4 种方式：Redis、RabbitMQ、Quartz、时间轮对比](https://mp.weixin.qq.com/s/XxaQa_PgomD_oLNiMFj8ng)
 - [企业级 Spring Boot 身份认证实践：如何正确集成第三方平台？](https://mp.weixin.qq.com/s/Je8nwGw8NDfCjBrccde0Tg)
 
-## 测试
+## 权限认证
 
-- [Spock 单元测试框架以及在美团优选的实践](https://mp.weixin.qq.com/s/U1FArrcdFf3NKui6_Sf-qw)
+- https://docs.authing.cn/v2/quickstarts/
+- https://docs.authing.cn/v2/guides/access-control/abac.html
+- https://segmentfault.com/a/1190000038275203
+- https://gitee.com/javis_code/kt-upms
+- https://gitee.com/choerodon/iam-service
+- https://www.jianshu.com/p/5b8aa8f04b2f
+- https://blog.csdn.net/zollty/article/details/108462669
+- https://casbin.org/docs/zh-CN/tutorials
+- https://www.cnblogs.com/vigoz/p/12984556.html
+- https://janche.github.io/2019/07/24/Spring-Security-JWT-%E5%AE%8C%E6%88%90RBAC%E5%8A%A8%E6%80%81%E6%8E%88%E6%9D%83/
+- https://juejin.cn/post/6995177894850854943
+- https://blog.csdn.net/zhenghongcs/article/details/120428172
+
+## 学习 Demo
+
+- https://gitee.com/gaojunjie03/fileex.git
+  > 针对大文件的分块传输和断点续传设计实现的处理器（支持上传和下载），基于 netty
+- https://github.com/pjmike/springboot-netty.git
+
+## xxl-job
+
+分布式任务调度
+
+## cas
+
+单点登录
+
+## 微服务架构
+
+- [Mica，Spring Cloud 微服务开发核心包，支持 web 和 webflux](https://gitee.com/596392912/mica)
+- [blade-tool](https://gitee.com/596392912/mica)
+- [wecode](https://github.com/is-m/wecode)
+- [jhipster](https://github.com/jhipster/jhipster)
+- [RuoYi v3.6.3 基于 Vue/Element UI 和 Spring Boot/Spring Cloud & Alibaba 前后端分离的分布式微服务架构](https://gitee.com/y_project/RuoYi-Cloud)
+- [pig](https://gitee.com/log4j/pig)
+- [mcms](https://gitee.com/mingSoft/MCMS)
+- [jeecg-boot 低代码开发平台](https://github.com/jeecgboot/jeecg-boot)
+- [jeesite4-cloud](https://gitee.com/thinkgem/jeesite-cloud)
+  > 功能简单，很多工程为引用开源项目，如 eureka/nacos/sentinel dashboard
+- [fileex 一款基于 netty、http1.1 transfer-encoding:chunked、websocket 实现的大文件分块上传断点续传处理器](https://gitee.com/gaojunjie03/fileex)
+
+## 学习 Demo
+
+- https://gitee.com/gaojunjie03/fileex.git
+  > 针对大文件的分块传输和断点续传设计实现的处理器（支持上传和下载），基于 netty
+- https://github.com/pjmike/springboot-netty.git
+
+## xxl-job
+
+分布式任务调度
+
+## cas
+
+单点登录
+
+## 微服务架构
+
+- [Mica，Spring Cloud 微服务开发核心包，支持 web 和 webflux](https://gitee.com/596392912/mica)
+- [blade-tool](https://gitee.com/596392912/mica)
+- [wecode](https://github.com/is-m/wecode)
+- [jhipster](https://github.com/jhipster/jhipster)
+- [RuoYi v3.6.3 基于 Vue/Element UI 和 Spring Boot/Spring Cloud & Alibaba 前后端分离的分布式微服务架构](https://gitee.com/y_project/RuoYi-Cloud)
+- [pig](https://gitee.com/log4j/pig)
+- [mcms](https://gitee.com/mingSoft/MCMS)
+- [jeecg-boot 低代码开发平台](https://github.com/jeecgboot/jeecg-boot)
+- [jeesite4-cloud](https://gitee.com/thinkgem/jeesite-cloud)
+  > 功能简单，很多工程为引用开源项目，如 eureka/nacos/sentinel dashboard
+- [fileex 一款基于 netty、http1.1 transfer-encoding:chunked、websocket 实现的大文件分块上传断点续传处理器](https://gitee.com/gaojunjie03/fileex)

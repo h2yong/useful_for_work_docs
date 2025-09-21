@@ -48,9 +48,5 @@ print(f"主机：{host}")
 print(f"端口：{port}")
 print(f"用户名：{username}")
 print(f"密码：{password}")
-<<<<<<< HEAD
 ```
 原帖地址： [Python 解析配置文件、环境变量和命令行参数，获得一组选项](https://geek-docs.com/python/python-ask-answer/983_python_parse_config_files_environment_and_commandline_arguments_to_get_a_single_collection_of_options.html)
-=======
-```
->>>>>>> 3abf486a8f6221d525e323aa7a73b70a21f64026
