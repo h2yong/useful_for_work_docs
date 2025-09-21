@@ -1,1 +1,0 @@
-升级pip时报ModuleNotFoundError: No module named 'pip'，因为这个错误导致 pip找不到，可以首先执行`python -m ensurepip`， 然后执行 `python -m pip install --upgrade pip`即可更新完毕。
