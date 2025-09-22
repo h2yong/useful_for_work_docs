@@ -1,11 +1,3 @@
-<!--
- * @Author: h2yong@outlook.com
- * @Date: 2020-03-04 11:20:20
- * @LastEditTime: 2020-10-16 15:25:48
- * @LastEditors: Please set LastEditors
- * @Description: shell好命令
- -->
-
 # shell 好命令
 ## 提取两个文件相同的内容
 

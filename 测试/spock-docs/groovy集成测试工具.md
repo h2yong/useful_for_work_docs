@@ -1,11 +1,4 @@
+# spock 教程
 
-```groovy
-import groovy.json.JsonOutput
-import groovy.json.StringEscapeUtils
-// 将Unicode转为中文
-def str= StringEscapeUtils.unescapeJava(JsonOutput.toJson(jsonParams))
-// 将中文转为Unicode
-StringEscapeUtils.escapeJava(str)
-```
-
-spock教程: https://spockframework.org/spock/docs/2.0/all_in_one.html
+- [Spock Framework Example Project](https://github.com/spockframework/spock-example)
+- [spock 最新教程从官网首页进入](https://spockframework.org/)

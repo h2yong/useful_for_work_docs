@@ -1,5 +1,18 @@
 # AI 技术文章
 
+## 知名大模型
+
+- [chatgpt](https://chatgpt.com/?model=auto)
+- [gemini](https://gemini.google.com/?hl=zh)
+- [deepseek](https://www.deepseek.com/)
+- [claude](https://claude.ai/)
+- [grok](https://grok.com/)
+- [kimi](https://www.kimi.com/)
+- [豆包](https://www.doubao.com/chat/)
+- [文心一言](https://yiyan.baidu.com/)
+- [腾讯元宝](https://yuanbao.tencent.com/mine)
+- [阿里通义](https://www.tongyi.com/)
+
 ## chatgpt 网站
 
 - https://chatgpt886.com/chatgptzhilin
@@ -41,3 +54,25 @@
 - [随机手机号和身份证号码(python)](https://www.cnblogs.com/LOVEYU/p/8462938.html)、
 - [挖掘海量数据精华价值：Milvus 助力企业打造前沿 AI 搜索](https://m.toutiao.com/is/JPWq9PV/)
 - [【深度知识】25 种区块链共识算法全面详解](https://www.jianshu.com/p/328cd989a4c8)
+
+## AI 网址
+
+- [AI 神器大全](https://aishenqi.net/)
+- [商业研究多智能体](https://atypica.ai/)
+  > https://atypica.musedam.cc/?ref=producthunt
+- [promptbox](https://www.promptbox.ai/)
+- [flowgpt](https://flowgpt.com/)
+
+### AI 视频和图片制作
+
+- [Pika](https://pika.art/)
+- [runway](https://runwayml.com/)
+- [sora](https://openai.com/zh-Hans-CN/sora/)
+- [ideogram](https://ideogram.ai/)
+  > 文本生成图片
+
+## 智能编程助手
+
+- [codegeex](https://codegeex.cn/)
+- [copilot](https://github.com/features/copilot)
+- [Cursor](https://cursor.com/cn)

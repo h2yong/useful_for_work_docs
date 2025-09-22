@@ -1,10 +1,4 @@
-<!--
- * @Author: h2yong@outlook.com
- * @Date: 2020-07-15 15:31:03
- * @LastEditTime: 2020-07-15 15:36:02
- * @LastEditors: Please set LastEditors
- * @Description: Maven打包使用代码版本号和时间戳
--->
+# maven 打包时增加版本号和时间戳
 
 为了显示区分部署代码版本，一般会在打包的时候带上 SVN/Git 版本号，如果是多机房部署的，还需要带上机房标签。
 
