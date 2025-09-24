@@ -1,6 +1,6 @@
 # AI 技术文章
 
-## 知名大模型
+## 大模型
 
 - [chatgpt](https://chatgpt.com/?model=auto)
 - [gemini](https://gemini.google.com/?hl=zh)
@@ -32,25 +32,34 @@
 
 ## tts
 
-- https://github.com/PaddlePaddle/PaddleSpeech ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)
-- https://github.com/coqui-ai/TTS ![](https://img.shields.io/github/stars/coqui-ai/TTS?style=social)
-- https://github.com/mozilla/TTS ![](https://img.shields.io/github/stars/mozilla/TTS?style=social)
-- https://github.com/enhuiz/vall-e ![](https://img.shields.io/github/stars/enhuiz/vall-e?style=social)
-- https://github.com/marytts/marytts ![](https://img.shields.io/github/stars/marytts/marytts?style=social)
+| 工具名                                                                    | star                                                                            |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social) |
+| [coqui-ai/TTS](https://github.com/coqui-ai/TTS)                           | ![](https://img.shields.io/github/stars/coqui-ai/TTS?style=social)              |
+| [mozilla/TTS](https://github.com/mozilla/TTS)                             | ![](https://img.shields.io/github/stars/mozilla/TTS?style=social)               |
+| [vall-e](https://github.com/enhuiz/vall-e)                                | ![](https://img.shields.io/github/stars/enhuiz/vall-e?style=social)             |
+| [marytts](https://github.com/marytts/marytts)                             | ![](https://img.shields.io/github/stars/marytts/marytts?style=social)           |
+| [edge-tts](https://github.com/rany2/edge-tts)                             | ![](https://img.shields.io/github/stars/rany2/edge-tts?style=social)            |
+| [Spark-TTS](https://github.com/SparkAudio/Spark-TTS)                      | ![](https://img.shields.io/github/stars/SparkAudio/Spark-TTS?style=social)      |
+| [piper](https://github.com/rhasspy/piper)                                 | ![](https://img.shields.io/github/stars/rhasspy/piper?style=social)             |
+
+参考文档:
+
+1. [2.8k star! 用开源免费的 edge-tts 平替科大讯飞的语音合成服务](https://zhuanlan.zhihu.com/p/685186002)
 
 ## 未归类 AI 技术文章
 
 - [吊打中文合成！这款开源语音神器效果炸裂，逼真到离谱！](https://developer.aliyun.com/article/1656522)
-- [2.8k star! 用开源免费的 edge-tts 平替科大讯飞的语音合成服务](https://zhuanlan.zhihu.com/p/685186002)
 - [https://github.com/topics/faq](https://github.com/topics/faq)
 - [好棒的知识图谱：开源综述系列集合](https://zhuanlan.zhihu.com/p/426324652?utm_id=0)
 - [阿里云小蜜对话机器人背后的核心算法](https://zhuanlan.zhihu.com/p/83487924?utm_id=0)
 - [通用信息抽取 UIE(Universal Information Extraction)](https://blog.csdn.net/m0_54929869/article/details/126626310)
 - [随机手机号和身份证号码(python)](https://www.cnblogs.com/LOVEYU/p/8462938.html)、
 - [挖掘海量数据精华价值：Milvus 助力企业打造前沿 AI 搜索](https://m.toutiao.com/is/JPWq9PV/)
-- [【深度知识】25 种区块链共识算法全面详解](https://www.jianshu.com/p/328cd989a4c8)
 
 ## AI 网址
+
+- [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ![](https://img.shields.io/github/stars/patchy631/ai-engineering-hub?style=social)
 
 ### AI 导航
 
@@ -100,6 +109,7 @@
 | [THULAC](https://github.com/thunlp/THULAC-Python)           | ![](https://img.shields.io/github/stars/thunlp/THULAC-Python?style=social)      |
 | [macropodus](https://github.com/yongzhuo/Macropodus)        | ![](https://img.shields.io/github/stars/yongzhuo/Macropodus?style=social)       |
 | [pyltp](https://github.com/HIT-SCIR/pyltp)                  | ![](https://img.shields.io/github/stars/HIT-SCIR/pyltp?style=social)            |
+| [spacy](https://github.com/explosion/spaCy)                 | ![](https://img.shields.io/github/stars/explosion/spaCy?style=social)           |
 
 备注:
 

@@ -149,6 +149,7 @@ https://www.graalvm.org/
 - [java-gitlab-api](https://github.com/timols/java-gitlab-api.git)
 - [mycat：mysql 中间件](http://mycat.io/)
 - [cobar：mysql 中间件](https://github.com/alibaba/cobar.git)
+- [Crazy-SpringCloud 微服务脚手架](https://gitee.com/crazymaker/crazy-springcloud)
 
 ## spring 相关文章
 
@@ -425,6 +426,8 @@ https://github.com/Mshu95/sso-cas
 - [jeesite4-cloud](https://gitee.com/thinkgem/jeesite-cloud)
   > 功能简单，很多工程为引用开源项目，如 eureka/nacos/sentinel dashboard
 - [fileex 一款基于 netty、http1.1 transfer-encoding:chunked、websocket 实现的大文件分块上传断点续传处理器](https://gitee.com/gaojunjie03/fileex)
+- [kt-upms](https://gitee.com/javis_code/kt-upms)
+  > 分布式权限中心
 
 ## 学习 Demo
 

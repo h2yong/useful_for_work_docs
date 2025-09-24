@@ -2,6 +2,16 @@
 
 - https://www.learnbyexample.org/python-introduction/
 
+## python web 框架
+
+- [reflex](https://reflex.dev/)
+- [Django](https://docs.djangoproject.com/zh-hans/5.2/)
+- [flask](https://flask.org.cn/en/stable/)
+- [streamlit](https://streamlit.io/)
+- [Gradio](https://gradio.org.cn/guides/quickstart)
+- [dash](https://plotly.com/dash/)
+- [FastAPI](https://fastapi.org.cn/tutorial/first-steps/)
+
 ## python 虚拟环境
 
 - [Python 包与虚拟环境工具全景对比：从 virtualenv 到 uv 的演进](https://jishuzhan.net/article/1954852619268173826)

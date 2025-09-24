@@ -13,14 +13,15 @@
 
 ## vue 脚手架
 
-| admin 脚手架                                           | 基础 UI 框架              | Github Star                                                                             |
-| ------------------------------------------------------ | ------------------------- | --------------------------------------------------------------------------------------- |
-| https://github.com/PanJiaChen/vue-element-admin        | element-ui 2.13.2         | ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social)      |
-| https://github.com/chuzhixin/vue-admin-beautiful-pro   | element-ui 2.15.6         | ![](https://img.shields.io/github/stars/chuzhixin/vue-admin-beautiful-pro?style=social) |
-| https://gitee.com/lyt-top/vue-next-admin               | element-plus 1.1.0-beta.9 | ![](https://img.shields.io/github/stars/lyt-top/vue-next-admin?style=social)            |
-| https://github.com/iview/iview-admin                   | iview 3.2.2               | ![](https://img.shields.io/github/stars/iview/iview-admin?style=social)                 |
-| https://github.com/iczer/vue-antd-admin                | ant-design-vue            | ![](https://img.shields.io/github/stars/iczer/vue-antd-admin?style=social)              |
-| [Vben Admin 企业级管理系统框架](https://doc.vben.pro/) | vben                      | ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social)             |
+| admin 脚手架                                                    | Github Star                                                                             |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| https://github.com/PanJiaChen/vue-element-admin                 | ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social)      |
+| https://github.com/chuzhixin/vue-admin-beautiful-pro            | ![](https://img.shields.io/github/stars/chuzhixin/vue-admin-beautiful-pro?style=social) |
+| https://gitee.com/lyt-top/vue-next-admin                        | ![](https://img.shields.io/github/stars/lyt-top/vue-next-admin?style=social)            |
+| https://github.com/iview/iview-admin                            | ![](https://img.shields.io/github/stars/iview/iview-admin?style=social)                 |
+| https://github.com/iczer/vue-antd-admin                         | ![](https://img.shields.io/github/stars/iczer/vue-antd-admin?style=social)              |
+| [Vben Admin 企业级管理系统框架](https://doc.vben.pro/)          | ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social)             |
+| [vue-admin-bette](https://github.com/zxwk1998/vue-admin-better) | ![](https://img.shields.io/github/stars/zxwk1998/vue-admin-better?style=social)         |
 
 ## awesome-vue
 

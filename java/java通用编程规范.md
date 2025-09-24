@@ -1,11 +1,3 @@
-<!--
- * @Author: h2yong@outlook.com
- * @Date: 2020-05-20 15:51:14
- * @LastEditTime: 2020-07-29 17:34:14
- * @LastEditors: Please set LastEditors
- * @Description: java通用编程规范
--->
-
 # 0 前言
 
 ## 0.1 前言
