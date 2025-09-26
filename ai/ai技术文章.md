@@ -13,9 +13,7 @@
 - [腾讯元宝](https://yuanbao.tencent.com/mine)
 - [阿里通义](https://www.tongyi.com/)
 
-## chatgpt 网站
-
-### prompt
+## prompt
 
 - [如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique) ![](https://img.shields.io/github/stars/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique?style=social)
 - [openprompt.co](https://github.com/timqian/openprompt.co) ![](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)
@@ -24,11 +22,6 @@
 - [wonderful-prompts](https://github.com/yzfly/wonderful-prompts/) ![](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)
 - [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) ![](https://img.shields.io/github/stars/thinkingjimmy/Learning-Prompt?style=social)
   > [Learning-Prompt site](https://learningprompt.wiki/docs/chatgpt-learning-path)
-
-## NLP
-
-- [自然语言处理资源大全](https://www.jianshu.com/p/a7f28383b62e)
-- [NLP 民工的乐园: 几乎最全的中文 NLP 资源库](https://github.com/fighting41love/funNLP)
 
 ## tts
 
@@ -59,6 +52,17 @@
 - [Ollama 完整教程：本地 LLM 管理、WebUI 对话、Python/Java 客](https://www.cnblogs.com/obullxl/p/18295202/NTopic2024071001)
 - [transformers 快速入门](https://transformers.run/)
 - [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook/#/)
+- [LangChain 中文网](https://www.langchain.com.cn/)
+- [LangChain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+- [MedicalGPT](https://github.com/liuhuanyong/MedicalGPT)
+- [NLP 民工的乐园: 几乎最全的中文 NLP 资源库](https://github.com/fighting41love/funNLP)
+- [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP)
+- [中文近义词：聊天机器人，智能问答工具包 Synonyms](https://github.com/chatopera/Synonyms)
+- [LangChain 中文入门教程](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)
+- [自然语言处理资源大全](https://www.jianshu.com/p/a7f28383b62e)
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+- [JioNLP](https://github.com/dongrixinyu/JioNLP)
+- [AI 算法测评(五)--算法测试实践](https://www.cnblogs.com/pojason/p/14629055.html)
 
 ## AI 网址
 
