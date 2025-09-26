@@ -9,6 +9,7 @@
 - [flask](https://flask.org.cn/en/stable/)
 - [streamlit](https://streamlit.io/)
 - [Gradio](https://gradio.org.cn/guides/quickstart)
+  - [Gradio入门到进阶全网最详细教程[一]：快速搭建AI算法可视化部署演示(侧重项目搭建和案例分享)](https://zhuanlan.zhihu.com/p/624712372)
 - [dash](https://plotly.com/dash/)
 - [FastAPI](https://fastapi.org.cn/tutorial/first-steps/)
 
@@ -66,3 +67,14 @@
 - [LangChain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 - [MedicalGPT](https://github.com/liuhuanyong/MedicalGPT)
 - [AI 算法测评(五)--算法测试实践](https://www.cnblogs.com/pojason/p/14629055.html)
+- [Gunicorn的使用手册看这篇就够了](https://cloud.tencent.com/developer/article/1902723)
+- [vs code、pycharm配置ruff](https://blog.csdn.net/randy521520/article/details/146119542)
+
+## 依赖项管理
+
+- [poetry](https://python-poetry.cn/docs/)
+- [uv](https://uv.doczh.com/)
+  - 设置国内源: 新增环境变量`UV_DEFAULT_INDEX=https://mirrors.cloud.tencent.com/pypi/simple`
+  - [docker 使用 uv 安装依赖](https://blog.csdn.net/QAZJOU/article/details/146515583)
+  - `ghcr.io/astral-sh/uv`国内镜像: <https://docker.aityp.com/image/ghcr.io/astral-sh/uv:latest>
+  - [astral-sh/uv 教程](https://opendeep.wiki/astral-sh/uv/faq)

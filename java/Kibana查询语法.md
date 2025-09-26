@@ -1,12 +1,4 @@
-<!--
- * @Author: your name
- * @Date: 2020-07-03 17:39:00
- * @LastEditTime: 2020-10-16 15:29:34
- * @LastEditors: Please set LastEditors
- * @Description: Lucene（Kibana）查询语法
--->
-
-> 因为 ElasticSearch 基于 Lucene，所以同样适用于 Kibana。
+# kibana 查询语法
 
 - 查询所有字段中有包含 200 的数据：200
 - 查询 status 字段等于 200 的数据：`status:200`

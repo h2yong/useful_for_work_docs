@@ -1,11 +1,3 @@
-<!--
- * @Author: h2yong@outlook.com
- * @Date: 2020-06-03 11:10:14
- * @LastEditTime: 2020-06-03 11:14:43
- * @LastEditors: Please set LastEditors
- * @Description: mysql-database-rename
--->
-
 # 引言
 
 某业务标识改名，导致各种配置需要修改（1、服务器域名 2、游戏程序及配置文件 3、各种运维脚本 4、相关数据库名）！  

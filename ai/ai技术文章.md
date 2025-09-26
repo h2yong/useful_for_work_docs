@@ -46,16 +46,19 @@
 参考文档:
 
 1. [2.8k star! 用开源免费的 edge-tts 平替科大讯飞的语音合成服务](https://zhuanlan.zhihu.com/p/685186002)
+2. [吊打中文合成！这款开源语音神器效果炸裂，逼真到离谱！](https://developer.aliyun.com/article/1656522)
 
 ## 未归类 AI 技术文章
 
-- [吊打中文合成！这款开源语音神器效果炸裂，逼真到离谱！](https://developer.aliyun.com/article/1656522)
 - [https://github.com/topics/faq](https://github.com/topics/faq)
 - [好棒的知识图谱：开源综述系列集合](https://zhuanlan.zhihu.com/p/426324652?utm_id=0)
 - [阿里云小蜜对话机器人背后的核心算法](https://zhuanlan.zhihu.com/p/83487924?utm_id=0)
 - [通用信息抽取 UIE(Universal Information Extraction)](https://blog.csdn.net/m0_54929869/article/details/126626310)
 - [随机手机号和身份证号码(python)](https://www.cnblogs.com/LOVEYU/p/8462938.html)、
 - [挖掘海量数据精华价值：Milvus 助力企业打造前沿 AI 搜索](https://m.toutiao.com/is/JPWq9PV/)
+- [Ollama 完整教程：本地 LLM 管理、WebUI 对话、Python/Java 客](https://www.cnblogs.com/obullxl/p/18295202/NTopic2024071001)
+- [transformers 快速入门](https://transformers.run/)
+- [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook/#/)
 
 ## AI 网址
 
@@ -73,6 +76,11 @@
   > https://atypica.musedam.cc/?ref=producthunt
 - [promptbox](https://www.promptbox.ai/)
 - [flowgpt](https://flowgpt.com/)
+
+## 人脸识别
+
+- [FastFace](https://gitee.com/code2roc/fastface)
+  > [Spring Boot 集成 SeetaFace6：手把手打造工业级人脸识别接口](https://mp.weixin.qq.com/s/Til8wPXh4TNfpLVG7uNlKQ)
 
 ### AI 视频和图片制作
 
