@@ -1,4 +1,4 @@
-# 动态加载 js 文件的正确姿势
+# 动态加载js文件的正确姿势
 
 > 转载<https://github.com/letiantian/how-to-load-dynamic-script>
 
