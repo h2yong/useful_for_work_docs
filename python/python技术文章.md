@@ -9,26 +9,9 @@
 - [flask](https://flask.org.cn/en/stable/)
 - [streamlit](https://streamlit.io/)
 - [Gradio](https://gradio.org.cn/guides/quickstart)
-  - [Gradio入门到进阶全网最详细教程[一]：快速搭建AI算法可视化部署演示(侧重项目搭建和案例分享)](https://zhuanlan.zhihu.com/p/624712372)
+  - [Gradio 入门到进阶全网最详细教程[一]：快速搭建 AI 算法可视化部署演示(侧重项目搭建和案例分享)](https://zhuanlan.zhihu.com/p/624712372)
 - [dash](https://plotly.com/dash/)
 - [FastAPI](https://fastapi.org.cn/tutorial/first-steps/)
-
-## cuda windows 安装
-
-- [CUDA 与 CUDNN 在 Windows 下的安装与配置](https://blog.csdn.net/YYDS_WV/article/details/137825313)
-- [windows 上使用 anconda 安装 tensorrt 环境](https://zhuanlan.zhihu.com/p/680098295)
-
-### CUDA lazy loading is not enabled
-
-**背景**:  
-在 TensorRT 运行测试用例的时候出现以下`warning：CUDA lazy loading is not enabled. Enabling it can significantly reduce device memory usage and speed up TensorRT initialization. See "Lazy Loading" section of CUDA documentation https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#lazy-loading`
-
-**解决方案**:  
-启用懒加载需设置环境变量 CUDA_MODULE_LOADING=LAZY，适用于 CUDA 版本 11.7 及以上。
-
-**参考文档**:
-
-- [CUDA lazy loading is not enabled. Enabling it can significantly reduce device memory usage and speed](https://blog.csdn.net/s1_0_2_4/article/details/135026761)
 
 ## python 技术文章未分类
 
@@ -47,8 +30,8 @@
 - [serpapi](https://serpapi.com/manage-api-key)
   > github 帐号登录
 - [pydantic 学习与使用-2.基本模型(BaseModel)使用](https://www.cnblogs.com/yoyoketang/p/15908037.html)
-- [Gunicorn的使用手册看这篇就够了](https://cloud.tencent.com/developer/article/1902723)
-- [vs code、pycharm配置ruff](https://blog.csdn.net/randy521520/article/details/146119542)
+- [Gunicorn 的使用手册看这篇就够了](https://cloud.tencent.com/developer/article/1902723)
+- [vs code、pycharm 配置 ruff](https://blog.csdn.net/randy521520/article/details/146119542)
 
 ## 依赖项管理
 
@@ -60,6 +43,7 @@
   - [astral-sh/uv 教程](https://opendeep.wiki/astral-sh/uv/faq)
 
 ### 依赖项管理工具对比
+
 - [Python 包与虚拟环境工具全景对比：从 virtualenv 到 uv 的演进](https://jishuzhan.net/article/1954852619268173826)
 - [Python 包管理及环境管理工具对比](https://www.cnblogs.com/dokibook/p/19049003)
 - [Python 專案管理工具全面比較 - uv, Poetry, Pixi, Hatch, PDM, Conda, Mamba, Pipenv, venv, virtualenv](https://dev.to/zhenshuo2021/best-python-project-manager-288p)

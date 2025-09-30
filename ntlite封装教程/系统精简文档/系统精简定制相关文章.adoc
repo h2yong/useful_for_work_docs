@@ -1,36 +1,9 @@
 = 系统精简定制相关文章
 :toc: left
+:toc-title: 目录
+:toclevels: 4
 
 == 系统定制相关网站
 . https://www.yrxitong.com/[小鱼儿yr系统]
 . https://www.itsk.com/[IT天空]
 . https://bbs.pcbeta.com/[远景论坛]
- 
-== 母盘精简教程
-. https://www.itsk.com/thread/408614[Windows 10 Enterprise LTSC 2019_x64极度精简超详细ES5封装过程（一、系统精简）]
-. https://www.itsk.com/thread/404410[ES5高效封装WIN10系统教程2020系列（一）母盘定制]
-. https://www.itsk.com/thread/421981[全新Windows11系统封装图文教程（一）定制母盘]
-. https://www.itsk.com/thread/409023[win10精简优化教程（Dism++）]
- 
-== 系统清理教程
-. https://www.itsk.com/thread/395098[【0day方案】一键清理Win10 Winsxs文件夹的命令(微软官方)]
-
-== 原版镜像和母盘下载
-. https://yrxitong6-my.sharepoint.cn/personal/yrxitong_com_yrxitong_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyrxitong%5Fcom%5Fyrxitong%5Fcom%2FDocuments%2F%E5%B0%8F%E9%B1%BC%E5%84%BFyr%E7%B3%BB%E7%BB%9F%2F%E5%B0%81%E8%A3%85%E4%B8%93%E7%94%A8%E6%AF%8D%E7%9B%98&ga=1[小鱼儿封装专用母盘]
-. https://yrxitong6-my.sharepoint.cn/personal/yrxitong_com_yrxitong_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyrxitong%5Fcom%5Fyrxitong%5Fcom%2FDocuments%2F%E5%B0%8F%E9%B1%BC%E5%84%BFyr%E7%B3%BB%E7%BB%9F%2F%E5%8E%9F%E7%89%88%E9%95%9C%E5%83%8F&ga=1[windows原版镜像]
-
-== 母盘制作工具
-. https://www.ntlite.com/[ntlite]
-. https://www.aichunjing.com/soft/2018-12-23/579.html[系统精简工具 MSMG ToolKit v13.7 汉化中文版]
-
-== 待研究的系统优化工具
-. https://github.com/hellzerg/optimizer
-. https://github.com/Chuyu-Team/Dism-Multi-language
-. https://github.com/Sophia-Community/SophiApp
-. https://winaerotweaker.com/
-. https://www.ghxi.com/olsoul.html
-. https://www.ghxi.com/tweakpower.html
-. https://www.163.com/dy/article/HITMVFQL0531BB1N.html
-. https://www.52pojie.cn/thread-1651910-1-1.html
-. https://github.com/Fahim732/Windows-10-optimize-script
-. https://github.com/rahilpathan/win10boost

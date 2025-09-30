@@ -1,5 +1,7 @@
 = 封装前清理
 :toc: left
+:toc-title: 目录
+:toclevels: 4
 
 == 运行link:https://www.yrxitong.com/h-nd-100.html[辅助工具]将所有桌面快捷方式图标转移到公共桌面
 TIP: 提前将用户桌面图标转移到公共桌面，这样做的目的是避免重装系统后桌面出现双重图标。

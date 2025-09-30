@@ -126,3 +126,20 @@
 备注:
 
 1. 注意 paddlepaddle 版本(paddlepaddle==2.5.2)、python 版本(python==3.10.18)、lac 版本(lac==2.1.2) .
+
+## cuda windows 安装
+
+- [CUDA 与 CUDNN 在 Windows 下的安装与配置](https://blog.csdn.net/YYDS_WV/article/details/137825313)
+- [windows 上使用 anconda 安装 tensorrt 环境](https://zhuanlan.zhihu.com/p/680098295)
+
+### CUDA lazy loading is not enabled
+
+**背景**:  
+在 TensorRT 运行测试用例的时候出现以下`warning：CUDA lazy loading is not enabled. Enabling it can significantly reduce device memory usage and speed up TensorRT initialization. See "Lazy Loading" section of CUDA documentation https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#lazy-loading`
+
+**解决方案**:  
+启用懒加载需设置环境变量 CUDA_MODULE_LOADING=LAZY，适用于 CUDA 版本 11.7 及以上。
+
+**参考文档**:
+
+- [CUDA lazy loading is not enabled. Enabling it can significantly reduce device memory usage and speed](https://blog.csdn.net/s1_0_2_4/article/details/135026761)

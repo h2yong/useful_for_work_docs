@@ -1,5 +1,7 @@
 = 准备封装环境和母盘安装
 :toc: left
+:toc-title: 目录
+:toclevels: 4
 
 == 制作一个用于封装的优启通PE镜像
 下载link:https://www.itsk.com/thread/430619[优启通]后，打开优启通后``EasyU_v3.7.exe``，按照下图步骤制作ISO镜像。
@@ -62,18 +64,7 @@ TIP: 请提前将软件下载到本地。
 ****
 可替换为link:https://www.ghxi.com/wps2019pro.html[WPS]。
 ****
-* https://www.423down.com/3050.html[PotPlayer]
-****
-其他下载地址：link:https://www.ghxi.com/potplayer.html[]
 
-可替换为其他播放器。
-****
-* https://www.423down.com/791.html[Chrome]
-****
-其他下载地址：link:https://www.ghxi.com/chrome.html[]
-
-可替换为link:https://www.mozilla.org/en-US/firefox/all/#product-desktop-release[firefox]，因其国内环境也可下载各种插件。
-****
 * https://www.yrxitong.com/h-nd-122.html[软媒清理大师单文件版3.7.8.0]
 * https://www.yrxitong.com/h-nd-759.html[系统和Office激活工具_HEU KMS Activator]
 * https://www.itsk.com/thread/428084[Easy Sysprep 5S RS2]
