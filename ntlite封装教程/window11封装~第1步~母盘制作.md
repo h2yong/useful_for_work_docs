@@ -36,4 +36,4 @@
 - [Windows 10 Enterprise LTSC 2019_x64 极度精简超详细 ES5 封装过程（一、系统精简）](https://www.itsk.com/thread/408614)
 - [【封装系列】ES5 高效封装 WIN10 系统教程 2020 系列（一）母盘定制](https://www.yrxitong.com/h-nd-311.html)
 - [NTLite 精简定制 Windows 系统](https://www.xiamuyan.com/share/windows-system/streamline-windows-system-with-ntlite.html)
-  [2022 年全新 Windows11 系统封装图文教程（一）定制母盘](https://www.yrxitong.com/h-nd-1101.html)
+- [2022 年全新 Windows11 系统封装图文教程（一）定制母盘](https://www.yrxitong.com/h-nd-1101.html)
