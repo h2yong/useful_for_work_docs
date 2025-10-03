@@ -1,4 +1,4 @@
-= 使用工具优化和封装前清理
+= 准备封装环境和母盘安装
 :toc: left
 :toc-title: 目录
 :toclevels: 4
@@ -38,8 +38,6 @@ image:images/启用共享.jpg[align=center]
 . 在桌面显示IE图标
 . 添加右键深浅主题模式
 
-这些选项个人觉得没什么必要.
-
 勾选完后新建一个优化方案, 保存后方便随时按照自己的设置进行一键优化.
 
 image:images/封装推荐优化方案.webp[align=center]
@@ -64,29 +62,5 @@ TIP: 提前将用户桌面图标转移到公共桌面，这样做的目的是避
 
 image:images/用户桌面移动至公共桌面.png[align=center]
 
-== 将控制查用的控制面板和此电脑放在磁贴中
-image:images/磁贴设置.png[align=center]
-
-== 封装前全面清理
-=== 清理部分
-打开link:https://www.yrxitong.com/h-nd-100.html[小鱼儿yr系统封装优化设置辅助工具]，按照下图步骤继续用辅助工具进行一键清理。
-image:images/小鱼儿封装推荐清理方案.webp[align=center]
-image:images/小鱼儿封装推荐清理方案完成.webp[align=center]
-
-=== 使用Dism++清理
-按照下图步骤继续用Dism++进行清理。
-
-image:images/dism++空间回收.webp[align=center]
-
-=== 使用软媒清理大师清理
-软媒也是一款比较经典的老款优化清理软件，其优化部分我们也不用设置了，辅助工具已经代替它帮我们优化过系统了，我们就用它清理一下就行了。只选择一键清理和系统隐私进行清理即可。
-image:images/软媒一键清理.webp[align=center]
-image:images/软媒清理系统隐私.webp[align=center]
-
-=== 备份系统个性设置
-重启系统进入PE系统，按照下图操作进行系统个性备份。
-image:images/备份系统个性设置1.webp[align=center]
-image:images/备份系统个性设置2.webp[align=center]
-
-=== 封装前拍摄快照
-image:images/封装前拍摄快照.webp[align=center]
+== 激活系统
+使用link:https://www.yrxitong.com/h-nd-759.html[系统和Office激活工具_HEU KMS Activator]激活系统.

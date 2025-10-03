@@ -87,9 +87,6 @@ image:images/Sysprep的对话框.png[align=center]
 使用link:https://www.yrxitong.com/h-nd-100.html[小鱼儿yr系统封装优化设置辅助工具]开启Administrotar账户, 选中并单独优化这个项目即可.
 image:images/开启Administrotar账户.jpg[align=center]
 
-== 激活系统
-使用link:https://www.yrxitong.com/h-nd-759.html[系统和Office激活工具_HEU KMS Activator]激活系统.
-
 == 拍摄快照备份
 关闭虚拟机系统, 按照下图步骤设置.快照命名“母盘安装后”, 描述选填, 方便以后查询或恢复使用.
 image:images/母盘安装后快照.jpg[align=center]
