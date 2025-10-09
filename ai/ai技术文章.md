@@ -22,6 +22,7 @@
 - [wonderful-prompts](https://github.com/yzfly/wonderful-prompts/) ![](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)
 - [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) ![](https://img.shields.io/github/stars/thinkingjimmy/Learning-Prompt?style=social)
   > [Learning-Prompt site](https://learningprompt.wiki/docs/chatgpt-learning-path)
+- [Prompt高手进阶：3层心法让你驯服AI！](https://mp.weixin.qq.com/s/kOm31MCwIAhqaXrkh-ne2A)
 
 ## tts
 

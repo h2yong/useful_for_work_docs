@@ -1,7 +1,0 @@
-# 一行代码激活win+office
-
-命令行执行以下语句可激活win+office：
-[source,bat]
-----
-irm https://get.activated.win | iex
-----

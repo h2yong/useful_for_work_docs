@@ -151,6 +151,6 @@ lsof -i:端口号
 netstat -tunlp|grep 端口号
 ```
 
-# linux 命令大全
+## linux 命令大全
 
 [man.linuxde.net](https://man.linuxde.net/par/3)

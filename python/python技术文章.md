@@ -32,6 +32,7 @@
 - [pydantic 学习与使用-2.基本模型(BaseModel)使用](https://www.cnblogs.com/yoyoketang/p/15908037.html)
 - [Gunicorn 的使用手册看这篇就够了](https://cloud.tencent.com/developer/article/1902723)
 - [vs code、pycharm 配置 ruff](https://blog.csdn.net/randy521520/article/details/146119542)
+- [一图胜千言：SQL VS Python，谁更能玩转数据](https://mp.weixin.qq.com/s/AOf7zYk1FMurrZPsmp6Kbg)
 
 ## 依赖项管理
 
