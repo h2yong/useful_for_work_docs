@@ -1,4 +1,4 @@
-# windows佳软
+# windows 佳软
 
 - [7-zip](https://www.7-zip.org/)
 
@@ -192,4 +192,33 @@
   > 一款跨平台的 OCR 小工具。
 
 - [ImageGlass(图片浏览器)](https://github.com/d2phap/ImageGlass)
+
   > ImageGlass 是一款常用的图像浏览工具，用于浏览各种最常见的图像格式。支持显示放小的图片，支持显示大图。显示图片速度更加流畅，加载更加快速，支持将图片转换不同格式。
+
+- 编程等宽字体[Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd)
+
+  > 此字体可适配[intellij](https://www.jetbrains.com.cn/)旗下系列工具以及[Visual Studio Code](https://code.visualstudio.com/)等编程工具.
+
+- [marker](https://github.com/datalab-to/marker)
+
+  > 教程: [一招搞定 PDF 到 Markdown，开源神器 Marker 来了](https://zhuanlan.zhihu.com/p/26166537484)
+
+- [FileBrowser](https://www.filebrowser.cn/)
+
+  > [FileBrowser 私人网盘安装配置教程](https://oooutman.github.io/FileBrowser/)
+
+- IntelliJ
+  - [IntelliJ IDEA 使用教程](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)
+  - [Intellij IDEA 实用插件推荐](https://juejin.im/post/6844904082721734663)
+
+  - IDEA 设置配置文件的位置
+  IDEA 虽然有着便携版本，但它的配置文件显然并非如此。默认设置在当前用户目录下，所以为了便携化考虑，还是将配置文件也放到 IDEA 程序的子目录更好一点。
+  主要需要修改的文件为：`IDEAHome/bin/idea.properties`
+
+  找到内容为 `idea.config.path` 与 `idea.system.path` 的选项，放开注释，修改为你想要的路径就好了。
+
+  `idea.config.path`：IDEA 的配置文件目录，主要有安装的插件，自定义的配置等  
+  `idea.system.path`：IDEA 的缓存文件目录，主要有各个项目单独的配置，项目的索引等  
+  注：`${idea.home.path}` 代表的是 IDEA 程序的根目录。  
+  例如：IDEA 的文件夹是：`C:/Users/zhangsan/Program/ideaIU-2018.1.6.win/`。 那么，`${idea.home.path}/.IntelliJIdea/` 代表的就是 `C:/Users/zhangsan/Program/ideaIU-2018.1.6.win/.IntelliJIdea/`  
+  以上便是使用 IDEA 设置配置文件的位置的方法，现在可以将 IDEA 程序和配置一起打包解压使用了。
