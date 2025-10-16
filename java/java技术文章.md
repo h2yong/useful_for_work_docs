@@ -1,9 +1,4 @@
-# java 好网址
-
-## 代码构建
-
-- [Apache Maven](http://maven.apache.org/)：Maven 使用声明进行构建并进行依赖管理，偏向于使用约定而不是配置进行构建。
-- [Gradle](http://www.gradle.org/)：Gradle 采用增量构建。Gradle 通过 Groovy 编程而不是传统的 XML 声明进行配置。Gradle 可以很好地配合 Maven 进行依赖管理。
+# java技术文章
 
 ## 代码分析
 
@@ -14,7 +9,6 @@
 
 ## 覆盖率统计
 
-- [cobertura](https://cobertura.github.io/cobertura/)
 - [jacoco](https://www.jacoco.org/jacoco/)
 
 ## Web 开发相关框架
@@ -135,8 +129,6 @@ https://www.graalvm.org/
 
 - [Heroku](https://www.heroku.com/)
 - [appfog](https://www.ctl.io/appfog/)
-- [Mendix](https://www.mendix.com/)
-  > 低代码开发平台
 
 ## 服务编排
 

@@ -59,7 +59,7 @@ TIP: 请提前将软件下载到本地。
 * link:https://www.itsk.com/thread-396895-1-1.html[GoRuntime_DirectX_9.0c运行库]
 * link:https://www.ghxi.com/yxkhj.html[微软常用运行库合集]
 * link:https://www.7-zip.org/[7zip]
-** 可替换为link:https://github.com/M2Team/NanaZip/releases[nanazip]
+** windows11可替换为link:https://github.com/M2Team/NanaZip/releases[nanazip]
 * link:https://www.yrxitong.com/h-nd-1030.html[Office2021]
 * link:https://www.yrxitong.com/h-nd-122.html[软媒清理大师单文件版3.7.8.0]
 * link:https://github.com/zbezj/HEU_KMS_Activator/releases[系统和Office激活工具HEU_KMS_Activator]

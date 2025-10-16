@@ -13,6 +13,23 @@
 - [腾讯元宝](https://yuanbao.tencent.com/mine)
 - [阿里通义](https://www.tongyi.com/)
 
+## 智能体agent
+> [一文梳理主流热门智能体框架：Dify、Coze、n8n、AutoGen、LangChain、CrewAI](https://mp.weixin.qq.com/s/5zLnArJcI0TDxL-iiuikPg)
+  - [dify](https://github.com/langgenius/dify)
+    - [dify案例分享-100% 识别率！发票、汇票、信用证全搞定的通用票据识别工作流](https://mp.weixin.qq.com/s/9lC-kauW8TYCv-Hkz45X1A)
+  - [coze](https://github.com/coze-dev)
+  - [n8n](https://github.com/n8n-io/n8n.git)
+  - [autogen](https://github.com/microsoft/autogen)
+  - [langchain](https://github.com/langchain-ai/langchain)
+  - [CrewAI](https://github.com/crewAIInc/crewAI)
+
+## 大模型工具
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+  > https://www.llamafactory.cn/
+- [FasterTransformer](https://github.com/NVIDIA/FasterTransformer)
+- [ollama](https://ollama.com/)
+- [vllm](https://docs.vllm.com.cn/en/latest/index.html)
+
 ## prompt
 
 - [如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique) ![](https://img.shields.io/github/stars/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique?style=social)

@@ -195,9 +195,12 @@
 
   > ImageGlass 是一款常用的图像浏览工具，用于浏览各种最常见的图像格式。支持显示放小的图片，支持显示大图。显示图片速度更加流畅，加载更加快速，支持将图片转换不同格式。
 
-- 编程等宽字体[Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd)
+- 编程等宽字体
+  > 字体可适配[intellij](https://www.jetbrains.com.cn/)旗下系列工具以及[Visual Studio Code](https://code.visualstudio.com/)等编程工具.
+  - [Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd)
+  - [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)
+  - [Maple-font](https://github.com/subframe7536/Maple-font)
 
-  > 此字体可适配[intellij](https://www.jetbrains.com.cn/)旗下系列工具以及[Visual Studio Code](https://code.visualstudio.com/)等编程工具.
 
 - [marker](https://github.com/datalab-to/marker)
 
